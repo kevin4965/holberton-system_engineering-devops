@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/passwd head n-5
+lesst /etc/passwd head n-10
